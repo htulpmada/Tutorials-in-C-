@@ -1,0 +1,8 @@
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\bin\Debug\Switch and enum.exe.config
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\bin\Debug\Switch and enum.exe
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\bin\Debug\Switch and enum.pdb
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\obj\Debug\Switch and enum.csproj.GenerateResource.Cache
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\obj\Debug\Switch and enum.exe
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\obj\Debug\Switch and enum.pdb
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\obj\Debug\Switch_enum_and_Exception_handle.Form1.resources
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Switch and enum\obj\Debug\Switch_enum_and_Exception_handle.Properties.Resources.resources
