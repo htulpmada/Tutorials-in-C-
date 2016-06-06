@@ -1,0 +1,9 @@
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\bin\Debug\WindowsFormsTester.exe.config
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\bin\Debug\WindowsFormsTester.exe
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\bin\Debug\WindowsFormsTester.pdb
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\obj\Debug\WindowsFormsTester.csprojResolveAssemblyReference.cache
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\obj\Debug\WindowsFormsTester.Form1.resources
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\obj\Debug\WindowsFormsTester.Properties.Resources.resources
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\obj\Debug\WindowsFormsTester.csproj.GenerateResource.Cache
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\obj\Debug\WindowsFormsTester.exe
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsTester\obj\Debug\WindowsFormsTester.pdb

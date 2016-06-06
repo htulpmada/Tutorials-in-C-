@@ -1,0 +1,9 @@
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.exe.config
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.csprojResolveAssemblyReference.cache
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.Form1.resources
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.Properties.Resources.resources
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.csproj.GenerateResource.Cache
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.exe
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\bin\Debug\WindowsFormsHelloWorld.pdb
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.exe
+c:\users\deucemonkey\documents\visual studio 2012\WindowsFormsHelloWorld\obj\Debug\WindowsFormsHelloWorld.pdb
