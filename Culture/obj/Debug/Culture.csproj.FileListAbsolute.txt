@@ -1,0 +1,9 @@
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\bin\Debug\Culture.exe.config
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\bin\Debug\Culture.exe
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\bin\Debug\Culture.pdb
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\obj\Debug\Culture.csprojResolveAssemblyReference.cache
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\obj\Debug\Culture.Form1.resources
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\obj\Debug\Culture.Properties.Resources.resources
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\obj\Debug\Culture.csproj.GenerateResource.Cache
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\obj\Debug\Culture.exe
+C:\Users\deucemonkey\bitBucket\C# Tutorials\Culture\obj\Debug\Culture.pdb
